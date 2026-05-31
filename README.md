@@ -1,5 +1,4 @@
 # Climate Change and Its Effect on Hop Growth
-## DSC 520: Statistics for Data Science Project Portfolio
 
 ## 📋 Project Overview
 This project investigates whether the documented negative impacts of climate change on European hop production—specifically declining yields and essential alpha acid content—are mirrored in the United States. Focus is placed on **Yakima, Washington**, the leading hop-producing region in the country. 
